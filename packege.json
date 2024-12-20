@@ -1,0 +1,14 @@
+{
+  "name": "my-minecraft-bot",
+  "version": "1.0.0",
+  "description": "Bot para Minecraft com IA simples",
+  "main": "src/bot.js",
+  "scripts": {
+    "start": "node src/bot.js"
+  },
+  "dependencies": {
+    "mineflayer": "^4.0.0"
+  },
+  "author": "Seu Nome",
+  "license": "MIT"
+}
